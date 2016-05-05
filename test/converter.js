@@ -1,6 +1,6 @@
 var expect = require("chai").expect,
-		converter = require("../app/converter");
+    converter = require("../app/converter");
 
 describe("URL converter", function() {
-	//tests go here
+  //tests go here
 });

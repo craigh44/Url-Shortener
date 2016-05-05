@@ -1,6 +1,6 @@
 var expect = require("chai").expect,
-		request = require("request");
+    request = require("request");
 
 describe("URL shortener API", function() {
-	//tests go here
+  //tests go here
 });
